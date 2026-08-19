@@ -16,7 +16,7 @@ Architecture mirrors real mission control ground systems:
 Moving asset types:
   ✈  Commercial aircraft  — Flat panel antenna
   🚢  Maritime vessel     — Electronically steered
-  🚗  Ground vehicle      —Mobile terminal
+  🚗  Ground vehicle      — Mobile terminal
   🚂  Train               — Rail terminal
   🚁  Drone               — Lightweight LEO direct link
   📱  Cell phone          — Direct-to-cell, no hardware
